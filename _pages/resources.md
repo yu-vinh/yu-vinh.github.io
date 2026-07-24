@@ -2,7 +2,7 @@
 layout: page
 title: resources
 permalink: /resoures/
-nav: false
+nav: true
 description: featured and bundled plugin ecosystem catalog for al-folio v1.x
 ---
 
